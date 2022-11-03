@@ -1,0 +1,55 @@
+body{
+  background-color: #f8f8f8;
+}
+
+#form-container{
+  background-color: #FFF;
+  border-radius: 20px;
+  box-shadow: .5px 10px 15px rgba(0, 0, 0, .2);
+  margin: 25px auto;
+  padding: 25px;
+}
+
+#form-container h2{
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+#form-container a:hover{
+  color: #6C63FF ;
+}
+
+#form-container form{
+  padding-bottom:50px;
+}
+
+#form-container .form-control{
+  border: none;
+  border-bottom: 2px solid #DDD;
+  border-radius: 0;
+}
+
+#form-container .form-control:focus{
+ box-shadow: none;
+}
+
+#form-container input[type=submit],
+#form-container input[type=checkbox]:checked{
+  background-color: #6C63FF;
+  border-color: #6C63FF;
+ }
+
+ .btn.btn-primary{
+  width: 100%;
+ }
+
+ .row.align-items-center{
+  align-content: center;
+  height: 100%;
+ }
+
+ #link-container{
+  text-align: center;
+  padding-top: 50px;
+ }
+

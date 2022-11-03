@@ -1,0 +1,10 @@
+.jumbotron{
+  padding: 3rem;
+  background-color: rgb(233, 236, 239);
+}
+
+#fotouser{
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
